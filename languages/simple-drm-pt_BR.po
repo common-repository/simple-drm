@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Simple DRM for WooCommerce\n"
+"POT-Creation-Date: 2021-05-07 16:20+0200\n"
+"PO-Revision-Date: 2021-05-07 16:22+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simple-drm.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: sd_classes.php:337
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar esta página."
+
+#: sd_classes.php:361
+msgid "Saved"
+msgstr "Salvo"
+
+#: sd_classes.php:371
+msgid "Activation key (get it at lector.paradimage.es)"
+msgstr "Chave de ativação (obter no site lector.paradimage.es)"
+
+#: sd_classes.php:375
+msgid "Customize Woocommerce Thank You page"
+msgstr "Personalize a página de finalizar compra de Woocommerce"
+
+#: sd_classes.php:379
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: sd_classes.php:415 sd_classes.php:419
+msgid "Thank you for your purchase, "
+msgstr "Obrigado pela sua compra, "
+
+#: sd_classes.php:416
+msgid ""
+"To download the products you purchased, download the Paradimage Reader app "
+"and install it in your phone or laptop"
+msgstr ""
+"Para baixar os produtos que você comprou, instale o aplicativo Paradimage "
+"Reader em seu telefone ou laptop"
+
+#: sd_classes.php:428
+msgid "Download the files in the app "
+msgstr "Baixe os arquivos no aplicativo "
+
+#: sd_classes.php:428
+msgid "Paradimage Reader"
+msgstr "Leitor Paradimage"
+
+#: sd_classes.php:430
+msgid "&infin;"
+msgstr "&infin;"
+
+#: sd_classes.php:451
+msgid "Never"
+msgstr "Nunca"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple DRM for WooCommerce"
+msgstr "Simple DRM para WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://lector.paradimage.es"
+msgstr "https://lector.paradimage.es"
+
+#. Description of the plugin/theme
+msgid ""
+"DRM protection for downloadable goods (ebooks, videos...) sold by "
+"Woocommerce sites, based on the apps by Paradimage"
+msgstr ""
+"Proteção DRM para bens para download (ebooks, vídeos...) vendidos pelos "
+"sites Woocommerce, com base nos aplicativos da Paradimage"
+
+#. Author of the plugin/theme
+msgid "Paradimage.es"
+msgstr "Paradimage.es"
+
+#. Author URI of the plugin/theme
+msgid "https://paradimage.es"
+msgstr "https://paradimage.es"
